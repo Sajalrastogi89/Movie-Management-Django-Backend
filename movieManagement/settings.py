@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-)1*ixv(s9!tkn%m^8byes-#$^$f)mh!s4x%+u&j4pqyu5$af8s
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['movie-management-django-backend-1.onrender.com']
 
 
 # Application definition
